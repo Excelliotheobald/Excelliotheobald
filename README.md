@@ -46,6 +46,9 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Excelliotheobald&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
 <br>
 
 
