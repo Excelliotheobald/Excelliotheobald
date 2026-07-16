@@ -9,15 +9,14 @@
 <p align="center" font-bold>
 <img src="./assets/banner1.png" width="100%">
 </p>
-<b>I'm a high school student, Frontend Developer, and Graphic Designer passionate about building modern, responsive, and user-centered digital experiences. I combine creative design with clean, maintainable code to create interfaces that are both visually appealing and functional. As I continue learning and growing, I'm always exploring new technologies, improving my development skills, and turning ideas into meaningful digital products.
-</b>
+<b>Halo perkenalkan nama saya Muhammad Excellio Theobald Halilintar. Saya adalah siswa SMKN8 Semarang, Sebenarnya saya seorang fullstack developer tapi karna saya lebih dominan dan lebih suka menjadi Frontend developer serta skill desain grafis saya yang lumayan mumpuni jadi anggaplah saya seorang Frontend developer awokawok. Saya mengembangkan skill saya di Nextjs,React dan sedang mengembangkan lagi untuk Vuejs serta desain grafis di Photoshop Ilustrator dan Canva. Saya juga mengembangkan skill saya ke mobile apps menggunakan React Native untuk project sekolah, okeee sekian dari saya bye bye :)</b>
 
 
 <H1 align="center">TECH STACK</H1>
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,python,nextjs,react,nodejs,tailwind,github,git,vercel,supabase,postgres,prisma,windows,vscode,ps,ai,canva&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,python,nextjs,vuejs,react,nodejs,tailwind,github,git,vercel,supabase,postgres,prisma,windows,vscode,ps,ai,canva&perline=9"/>
 
 </p>
 
@@ -44,17 +43,6 @@
 
 <br>
 
-## Current Focus
-
-```txt
-▢ Building modern web interfaces
-▢ Learning backend architecture
-▢ Exploring authentication
-▢ Improving UI/UX design
-▢ Writing cleaner TypeScript
-```
-
-<br>
 
 ## Connect with me
 
