@@ -7,7 +7,7 @@
 <!-- Banner -->
 
 <p align="center">
-<img src="./assets/banner.png" width="100%">
+<img src="./assets/banner1.png" width="100%">
 </p>
 
 <br>
