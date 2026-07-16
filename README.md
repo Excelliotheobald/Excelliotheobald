@@ -6,12 +6,12 @@
 
 <!-- Banner -->
 
-<p align="center">
+<p align="center" font-bold>
 <img src="./assets/banner1.png" width="100%">
 </p>
-Frontend Developer & Graphic Designer crafting clean, modern, and user-focused digital experiences.
+<b>I'm a high school student, Frontend Developer, and Graphic Designer passionate about building modern, responsive, and user-centered digital experiences. I combine creative design with clean, maintainable code to create interfaces that are both visually appealing and functional. As I continue learning and growing, I'm always exploring new technologies, improving my development skills, and turning ideas into meaningful digital products.
+</b>
 
-<br>
 
 <H1 align="center">TECH STACK</H1>
 
